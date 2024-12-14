@@ -6,6 +6,7 @@ pipeline {
         BRANCH_DESARROLLO = 'Desarrollo'
         BRANCH_PRUEBAS = 'Prueba'
         //agrego comentario
+        //agrego otro comentario
     }
 
     stages {
